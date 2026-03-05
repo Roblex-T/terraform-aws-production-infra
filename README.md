@@ -32,5 +32,9 @@ cp terraform.tfvars.example terraform.tfvars
 Initialize, plan and apply
 
 terraform init
+
+
 terraform plan
+
+
 terraform apply
