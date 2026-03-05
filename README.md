@@ -18,18 +18,21 @@ This project deploys a highly available AWS infrastructure using Terraform.
 
 ## Deploy
 
-Clone repo:
+-Clone repo:
+
+
 git clone https://github.com/Roblex-T/terraform-aws-production-infra.git
+
 
 cd terraform-aws-production-infra
 
 
-Create variables file by modifying the  example: 
+-Create variables file by modifying the  example: 
 
 cp terraform.tfvars.example terraform.tfvars
 
 
-Initialize, plan and apply
+-Initialize, plan and apply
 
 terraform init
 
